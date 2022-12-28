@@ -33,7 +33,10 @@ const LoginForm = () => {
                 <div className="form">
                     <h1 className="title">Kaam ki Baat</h1>
                     <h1 className="title" style={{ fontSize: 'large' }}>Chat Application</h1>
-
+                    <a href="https://github.com/Dheeraj-Bhandari/Chat-Application-Kaam-ki-Baat-" 
+                    style={{textDecoration:"none", margin:'50px', textAlign:'center'}}
+                    target="__blank"><h2>For Login Credentials See Github Repo  <i class="fa-brands fa-github"></i> </h2></a>
+                    
 
                     <form action="" onSubmit={handleSubmit}>
                         <input type="text" value={username} onChange={(e) => setusername(e.target.value)} className='input' placeholder='Username' required />
