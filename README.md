@@ -25,7 +25,7 @@ Vikas
 ````
 ### See Video I Made on This Project For All the Information about its Feature and Tech Stacks
 
-https://www.youtube.com/watch?v=jcOKU9f86XE
+[https://www.youtube.com/watch?v=jcOKU9f86XE](https://www.youtube.com/watch?v=AxNNp0RLJz8)
 
 
 ### Deployment
